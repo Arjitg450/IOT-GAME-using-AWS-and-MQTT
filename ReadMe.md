@@ -1,6 +1,5 @@
-P KAIF ALI KHAN CS22MTECH12009
 ARJIT GUPTA CS23MTECH12001
-APURBA SAHA CS23MTECH11003
+P KAIF ALI KHAN CS22MTECH12009
 
 Overview-
 	1.This Python script simulates a multiplayer game where players interact over MQTT, a machine-to-machine (M2M)/"Internet of Things" connectivity protocol. 
